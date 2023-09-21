@@ -1,6 +1,6 @@
-**PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
-***KPI's REQUIREMENT
+### KPI's REQUIREMENT
 We need to analyze key indicators for our pizza sales data to gain insights into our business
 performance. Specifically, we want to calculate the following metrics:
 
@@ -12,8 +12,7 @@ I.Total Revenue: The sum of the total price of all pizza orders.
 dividing the total number of pizzas sold by the total number of orders.
 
 
-
-***CHARTS REQUIREMENT
+### CHARTS REQUIREMENT
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key
 trends. We have identified the following requirements for creating charts:
 
